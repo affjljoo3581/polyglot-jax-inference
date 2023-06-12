@@ -119,6 +119,10 @@ with mesh:
 print(tokenizer.decode(generated[0].tolist()))
 ```
 
+## Acknowledgement
+
+본 레포지토리는 [TPU Research Cloud (TRC)](https://sites.research.google/trc/about/)의 지원으로 테스트되었습니다.
+
 ## License
 
 [MIT License](./LICENSE)
